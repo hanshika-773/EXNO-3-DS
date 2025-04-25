@@ -245,6 +245,6 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/4236e87c-bc3c-45cf-b4e8-4b3e94b9bbe4)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus, successfully read the given data and performed Feature Encoding and Transformation process and saved the data to a file.
 
        
